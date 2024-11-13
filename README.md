@@ -1,2 +1,2 @@
-# Biostatistics-Made-Easy
-Biostatistics Made Easy, published by Packt
+# Biostatistics-with-Python
+Biostatistics with Python, published by Packt
