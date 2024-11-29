@@ -49,6 +49,11 @@ With the following software and hardware list you can run all code files present
 * 15 Math Concepts Every Data Scientist Should Know  [[Packt]](https://www.packtpub.com/en-us/product/15-math-concepts-every-data-scientist-should-know-9781837634187) [[Amazon]](https://www.amazon.com/Math-Concepts-Every-Scientist-Should/dp/1837634181/ref=sr_1_1?sr=8-1)
 
 * Building Statistical Models in Python [[Packt]](https://www.packtpub.com/en-us/product/building-statistical-models-in-python-9781804614280) [[Amazon]](https://www.amazon.com/Building-Statistical-Models-Python-classification/dp/1804614289/ref=sr_1_1?sr=8-1)
-  
+
 ## Get to Know the Author
 **Darko Medin** is a researcher and a biostatistician who graduated from the Faculty of Mathematics and Natural Sciences, Experimental Biology and Biotechnology, University of Montenegro. Darko is an expert biostatistician, especially in the fi elds of research and development in the biotech and pharma industries. He is a Python-based data scientist with more than 10 years of experience in the areas of clinical biostatistics and biomedical research. As a biologist and data scientist, he has worked with many research companies and academic institutions around the world and is an experienced machine learning and AI developer.
+
+
+
+## Note:
+Links or sources to download all the datasets used are mentioned in the IPYNB files. In cases where the same datasets are used multiple times, we will continue using those datasets and load them accordingly.  
